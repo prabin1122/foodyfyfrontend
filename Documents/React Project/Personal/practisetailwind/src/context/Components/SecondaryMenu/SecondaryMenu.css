@@ -1,0 +1,12 @@
+.secondaryMenuContainer{
+    display: flex;
+    justify-content: space-evenly;
+    padding: 20px;
+}
+
+.searchBar{
+    width: 500px;
+    height: 50px;
+    border-radius: 20px;
+}
+
