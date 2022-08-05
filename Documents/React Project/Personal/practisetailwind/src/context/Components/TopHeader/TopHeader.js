@@ -17,7 +17,7 @@ function TopHeader() {
         <div className='toHeaderIcons'>
 
             <IconButton 
-                sx={{ color: 'white ',
+                sx={{ fontSize : '12px',color: 'white ',
                 "&:hover": {
                     color: "rgb(0,17,255)",
                 }}}
@@ -26,7 +26,7 @@ function TopHeader() {
             </IconButton>
 
             <IconButton 
-                sx={{ color: 'white ',
+                sx={{ fontSize : '12px', color: 'white ',
                 "&:hover": {
                     color: "rgb(0,17,255)",
                 }}}
@@ -35,7 +35,7 @@ function TopHeader() {
             </IconButton>
 
             <IconButton 
-                sx={{ color: 'white',
+                sx={{ fontSize : '12px', color: 'white',
                 "&:hover": {
                     color: "rgb(0,17,255)",
                 }}}

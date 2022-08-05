@@ -18,7 +18,7 @@ function SecondaryMenu() {
       </div>
       <div className='secondaryMenuIcons'>
         <IconButton 
-                sx={{ color: 'black ',
+                sx={{fontSize : '12px', color: 'black ',
                 "&:hover": {
                     color: "rgb(0,17,255)",
                 }}}
@@ -26,7 +26,7 @@ function SecondaryMenu() {
                 <FontAwesomeIcon icon={faFacebook} />
             </IconButton>
           <IconButton 
-                sx={{ color: 'black ',
+                sx={{fontSize : '12px', color: 'black ',
                 "&:hover": {
                     color: "rgb(0,17,255)",
                 }}}
@@ -34,7 +34,7 @@ function SecondaryMenu() {
             <FontAwesomeIcon icon={faFacebook} />
           </IconButton>
           <IconButton 
-                sx={{ color: 'black ',
+                sx={{fontSize : '12px', color: 'black ',
                 "&:hover": {
                     color: "rgb(0,17,255)",
                 }}}
